@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently building projects and contributing to opensource.
 - 🌱 I’m currently learning Node.js and TypeScript.
-- 👯 I’m looking to collaborate with software developers.
+- 👯 I’m looking to collaborate with other software developers.
 - 🎯 2022 Goals: Improve opensource contribution frequency.
 - 😄 Pronouns: he / him.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmadbshaik/)
