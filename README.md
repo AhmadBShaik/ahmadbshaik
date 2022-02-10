@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently building projects and contributing to opensource.
+- 🔭 I’m currently working as Backend Developer.
 - 🌱 I’m currently learning Node.js and TypeScript.
 - 👯 I’m looking to collaborate with other software developers.
 - 🎯 2022 Goals: Improve opensource contribution frequency.
