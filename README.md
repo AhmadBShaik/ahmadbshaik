@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as Backend Developer.
 - 🌱 I’m currently learning Node.js and TypeScript.
-- 👯 I’m looking to collaborate with other software developers.
-- 🎯 2022 Goals: Improve opensource contribution frequency.
-- 😄 Pronouns: he / him.
+- 👯 I’m looking to collaborate with other Software Developers.
+- 🎯 2022 Goals: Gain hands on experience with Blockchain.
+- 😄 Pronouns: He / Him.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmadbshaik/)
 - ⚡ Fun fact: I love reading programming jokes/memes.
 
