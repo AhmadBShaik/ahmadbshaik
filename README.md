@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as Backend Developer.
-- 🌱 I’m currently learning Node.js and TypeScript.
-- 👯 I’m looking to collaborate with other Software Developers.
-- 🎯 2022 Goals: Gain hands on experience with Blockchain.
+- 🔭 I’m currently working as a Software Developer.
+- 🌱 I’m currently learning TypeScript and React.
 - 😄 Pronouns: He / Him.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmadbshaik/)
-- ⚡ Fun fact: I love reading programming jokes/memes.
 
 ### Languages:
 [<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]()
